@@ -1,0 +1,10 @@
+#favLinks {
+  font-size: 35px;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.favLink {
+  margin-top: 0.5rem;
+}
